@@ -1,5 +1,5 @@
-# Twitch-and-Youtube-Viewbot
-Twitch and Youtube view-bot with auto proxies 
+# Twitch, Youtube and Tik-tok Viewbot
+Twitch, Youtube and Tik-tok view-bot with auto proxies 
  
  
  
